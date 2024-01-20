@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdul Manan.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Full Stack Development.
-- 📫 How to reach me Message on my LinkedIn profile.
+- 📫 How to reach me: Message on my LinkedIn profile.
 - ⚡ Fun fact: I sleep all day and wake up at night.
